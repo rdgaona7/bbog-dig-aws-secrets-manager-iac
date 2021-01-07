@@ -12,7 +12,7 @@ variable policy {
 variable name {
   description = "Name of the required secret"
   type        = string
-  default     = "rre_f"
+  default     = "rre_ff"
 }
 
 variable description {
